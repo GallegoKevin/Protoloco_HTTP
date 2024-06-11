@@ -72,10 +72,10 @@ CRUD es un acrónimo que describe las cuatro operaciones básicas que se pueden 
 
 1. XmHttpRequest (nativo)
 2. Fetch (nativo) (x)
-3. Axios (librería) (x)
+3. **Axios (librería) (x)**
 
 ## CÓMO MANEJAR LA DATA
 
 1. Callbacks (callback hell)
 2. Promesas (x)
-3. Async/Await (x)
+3. **Async/Await (x)**
