@@ -22,7 +22,18 @@ console.log('Cuarto console LOG');
 
 // COMO MANEJAR DATA
 
-const data = fetch ('https://jsonplaceholder.typicode.com/users');
+const info = {
+    name: 'Diego',
+    lastName: 'Cueva'
+}
+
+
+
+const data = fetch ('https://jsonplaceholder.typicode.com/users'/*, {
+    method: 'POST',
+    body : JSON.stringify(info)
+
+}*/);
 
 //console.log(data);
 
