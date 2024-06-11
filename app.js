@@ -1,3 +1,5 @@
+/*
+
 // ASINCRONIA:
 
 console.log('Primer console LOG');
@@ -10,4 +12,6 @@ alert('Soy un consumo de servicio');
 console.log('Tercer console LOG');
 console.log('Cuarto console LOG');
 
+
+*/
 
