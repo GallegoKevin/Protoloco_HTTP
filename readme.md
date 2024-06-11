@@ -1,7 +1,7 @@
 # PROTOCOLO HTTP
 Es el lenguaje común que permite la comunicación entre navegadores web y servidores, facilitando la transferencia de datos y la visualización de contenido en la World Wide Web.
 
-![imagen](https://i.ibb.co/jbDxjtZ/c7a83413-0888-4f3d-856b-5b63827f241c-1.jpg)
+![imagen](https://i.ibb.co/Bqm2JQH/c7a83413-0888-4f3d-856b-5b63827f241c-1-1.jpg)
 
 ## Estructura Básica de la Comunicación HTTP
 
@@ -64,3 +64,18 @@ CRUD es un acrónimo que describe las cuatro operaciones básicas que se pueden 
 - **Update (Actualizar)**: Se utiliza el método **PUT** para actualizar un recurso existente.
 
 - **Delete (Eliminar)**: Se utiliza el método **DELETE** para eliminar un recurso.
+
+
+# ASINCRONÍA
+
+## CÓMO REALIZAR PETICIONES
+
+1. XmHttpRequest (nativo)
+2. Fetch (nativo) (x)
+3. Axios (librería) (x)
+
+## CÓMO MANEJAR LA DATA
+
+1. Callbacks (callback hell)
+2. Promesas (x)
+3. Async/Await (x)
